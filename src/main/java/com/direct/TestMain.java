@@ -9,5 +9,6 @@ public class TestMain {
         System.out.println("hot_fix git4");
         System.out.println("pull git4");
         System.out.println("pull git5");
+        System.out.println("local git6");
     }
 }
